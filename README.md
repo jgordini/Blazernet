@@ -1,4 +1,7 @@
 # Blazernet
+
+https://www.iwu.edu/revitalization/Student-Financial-Aid-Focus-Whats-New-in-Banner-9.pdf
+
 it is not ascetically pleasing, there is not usually a go back button or a lot of drop downs to help you if you are looking for something.
 
 Each screen has a specific acronym that takes a while to remember, meaning, only daily users end up remembering what acronym you need to get to the right screen. Also, it takes several screens to see the complete information of a student's profile. For example, to see an application completely, I have to look at 5 different screens, each with different subtabs. With the new updated, it has been a little more difficult to navigate each screen since it's now more point and click friendly rather than keyboard navigation friendly. This is a drawback for longtime users.
